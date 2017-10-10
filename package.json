@@ -1,0 +1,19 @@
+{
+  "name": "json-minify",
+  "version": "1.0.0",
+  "description": "minifies blocks of JSON-like content into valid JSON by removing all whitespace and JS-style comments (single-line // and multiline /* .. */)",
+  "main": "minify.json.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uwx/json-minify.git"
+  },
+  "author": "uwx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uwx/json-minify/issues"
+  },
+  "homepage": "https://github.com/uwx/json-minify#readme"
+}
